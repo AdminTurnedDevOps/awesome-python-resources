@@ -48,6 +48,8 @@ Below is a curated list of Python resources that I find useful throughout many d
 
 [Python Script Task Azure DevOps](https://docs.microsoft.com/en-us/azure/devops/pipelines/tasks/utility/python-script?view=azure-devops)
 
+[Build and Test Python Code in GitHub Actions](https://docs.github.com/en/actions/guides/building-and-testing-python)
+
 
 ## Frontend web development
 
