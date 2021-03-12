@@ -17,7 +17,6 @@ Below is a curated list of Python resources that I find useful throughout many d
 [Data-Structures](https://towardsdatascience.com/8-common-data-structures-every-programmer-must-know-171acf6a1a42)
 
 ## General Python
-Below is a list of some general Pythonp programming resources to get started
 
 [Python Bootcamp by Jose Portilla](https://www.udemy.com/course-dashboard-redirect/?course_id=567828)
 [Variables for beginners](https://www.simplilearn.com/tutorials/python-tutorial/python-variables)
