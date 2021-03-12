@@ -36,13 +36,17 @@ Below is a curated list of Python resources that I find useful throughout many d
 ## Automation/DevOps
 [Python Scripting](https://docs.microsoft.com/en-us/windows/python/scripting)
 
-[Azure Python SDK][https://github.com/Azure/azure-sdk-for-python]
+[Azure Python SDK](https://github.com/Azure/azure-sdk-for-python)
 
-[AWS Python SDK][https://aws.amazon.com/sdk-for-python/]
+[AWS Python SDK](https://aws.amazon.com/sdk-for-python/)
 
-[Arguments At Runtime In Python (specifically sys.argv)][https://docs.python.org/3/library/sys.html]
+[Arguments At Runtime In Python (specifically sys.argv)](https://docs.python.org/3/library/sys.html)
 
 [Reusable Code with Functions](https://www.w3schools.com/python/python_functions.asp)
+
+[Error Handling](https://docs.python.org/3/tutorial/errors.html)
+
+[Python Script Task Azure DevOps](https://docs.microsoft.com/en-us/azure/devops/pipelines/tasks/utility/python-script?view=azure-devops)
 
 
 ## Frontend web development
