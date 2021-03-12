@@ -32,13 +32,17 @@ Below is a curated list of Python resources that I find useful throughout many d
 [Python Speed](https://stackify.com/20-simple-python-performance-tuning-tips/)
 
 [Python History](https://www.geeksforgeeks.org/history-of-python/)
-## Scripting
-
-
 
 ## Automation/DevOps
+[Python Scripting](https://docs.microsoft.com/en-us/windows/python/scripting)
 
+[Azure Python SDK][https://github.com/Azure/azure-sdk-for-python]
 
+[AWS Python SDK][https://aws.amazon.com/sdk-for-python/]
+
+[Arguments At Runtime In Python (specifically sys.argv)][https://docs.python.org/3/library/sys.html]
+
+[Reusable Code with Functions](https://www.w3schools.com/python/python_functions.asp)
 
 
 ## Frontend web development
