@@ -14,13 +14,24 @@ Below is a curated list of Python resources that I find useful throughout many d
 
 [Algorithms](https://medium.com/techie-delight/top-algorithms-data-structures-concepts-every-computer-science-student-should-know-e0549c67b4ac)
 
-[Data-Structures](https://towardsdatascience.com/8-common-data-structures-every-programmer-must-know-171acf6a1a42)
+[Data Structures](https://towardsdatascience.com/8-common-data-structures-every-programmer-must-know-171acf6a1a42)
 
 ## General Python
+
+[Python Overview](https://www.tutorialspoint.com/python/python_overview.htm#:~:text=Python%20is%20designed%20to%20be,your%20program%20before%20executing%20it.)
 
 [Python Bootcamp by Jose Portilla](https://www.udemy.com/course-dashboard-redirect/?course_id=567828)
 [Variables for beginners](https://www.simplilearn.com/tutorials/python-tutorial/python-variables)
 
+[Python Data Types](https://www.google.com/search?q=types+in+python&oq=types+in+python&aqs=edge..69i57j69i60l6.2180j0j1&sourceid=chrome&ie=UTF-8)
+
+[Python Whitespacing](https://stackoverflow.com/questions/13884499/what-is-python-whitespace-and-how-does-it-work#:~:text=Whitespace%20just%20means%20characters%20which,don%27t%20use%20them)
+
+[Python Variables](https://www.w3schools.com/python/python_variables.asp)
+
+[Python Speed](https://stackify.com/20-simple-python-performance-tuning-tips/)
+
+[Python History](https://www.geeksforgeeks.org/history-of-python/)
 ## Scripting
 
 
